@@ -1,0 +1,1 @@
+import{Ka as c,La as o,Sa as i,va as n}from"./chunk-UFEEQOKU.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-accueil"]],decls:2,vars:0,template:function(e,l){e&1&&(c(0,"h2"),i(1,"Bienvenue sur la page d'accueil !"),o())},encapsulation:2})};export{a as AccueilComponent};

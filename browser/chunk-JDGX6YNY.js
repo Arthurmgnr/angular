@@ -1,0 +1,1 @@
+import{Ka as o,La as a,Sa as p,va as n}from"./chunk-UFEEQOKU.js";var r=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-autre"]],decls:2,vars:0,template:function(e,i){e&1&&(o(0,"h2"),p(1,"\xC0 propos de ce site Angular"),a())},encapsulation:2})};export{r as AutreComponent};
